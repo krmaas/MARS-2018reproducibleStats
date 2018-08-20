@@ -18,12 +18,12 @@ In class discussions and commands will be posted in an etherpad <https://public.
 
 Day|Session|Topic
 ------|-------|--------
-Day 1|Morning|Introduction to communities <https://krmaas.github.io/MARS-2018reproducibleStats/intro.communities.html>
-.|.|Reproducible Research and R
-.|.|Importing data into R
-.|Afternoon|ggplot
-.|.|Subsetting, joining, data management
-Day 2|Morning|Multivariate stats
-.|.|More ggplot
-.|Afternoon|Hypothesis testing
-.|.|Indicator species analysis
+Day 1|Morning| Introduction to communities <https://krmaas.github.io/MARS-2018reproducibleStats/intro.communities.html>
+.|.| Reproducible Research and R
+.|.| Importing data into R
+.|Afternoon| ggplot
+.|.| Subsetting, joining, data management
+Day 2|Morning| Multivariate stats
+.|.| More ggplot
+.|Afternoon| Hypothesis testing
+.|.| Indicator species analysis
