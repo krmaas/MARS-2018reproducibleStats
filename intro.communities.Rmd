@@ -2,16 +2,15 @@
 title: "Intro to Microbial Communities"
 author: "Kendra Maas"
 date: "August 20-21, 2018"
-output: 
-    slidy_presentation:
-        fig_width: 7
-        fig_height: 6
-        fig_caption: true
-        incremental: true
+output:
+   slidy_presentation:
+    fig_caption: yes
+    fig_height: 6
+    fig_width: 7
+    incremental: yes
 ---
 
 ----
-
 
 #Why are we here?
 
@@ -58,7 +57,7 @@ output:
 ![Identify species present](speciesASV.png)
 
 Christophe Fraser,Eric J. Alm, Martin F. Polz, Brian G. Spratt, William P. Hanage
-Science 6 February 2009: Vol. 323 no. 5915 pp. 741-746 DOI: 10.1126/science.1159388 
+Science 6 February 2009: Vol. 323 no. 5915 pp. 741-746 DOI: 10.1126/science.1159388 
 
 
 

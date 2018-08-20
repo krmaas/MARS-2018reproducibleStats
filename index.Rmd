@@ -18,7 +18,7 @@ In class discussions and commands will be posted in an etherpad <https://public.
 
 Day|Session|Topic
 ------|-------|--------
-Day 1|Morning|Introduction to communities
+Day 1|Morning|Introduction to communities <https://krmaas.github.io/MARS-2018reproducibleStats/intro.communities.html>
 .|.|Reproducible Research and R
 .|.|Importing data into R
 .|Afternoon|ggplot
